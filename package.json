@@ -1,0 +1,7 @@
+{
+  "name": "comp4537-labs-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./lab3/js/server.js"
+  }
+}
